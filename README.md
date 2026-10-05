@@ -1,5 +1,13 @@
 # Engineering Monitoring & Automation Applications (.NET)
 
+## Illustrated engineering guide
+
+[Read the full engineering guide](docs/engineering-guide.md) for architecture, workflow, design rationale, evidence notes and the source gallery.
+
+![Engineering overview](docs/overview/architecture.svg)
+
+*Explanatory diagram added for this write-up.*
+
 **Author:** Mohammed Mahyoub.
 
 Developed VB.NET desktop applications and engineering tools for system monitoring, service documentation, repair tracking, operational reporting, device integration, and RF analysis.
