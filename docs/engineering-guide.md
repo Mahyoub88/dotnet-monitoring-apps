@@ -1,4 +1,4 @@
-# Engineering Monitoring & Automation Applications (.NET) — Engineering Guide
+# Engineering Software — Independent Applications
 
 Developed VB.NET desktop applications and engineering tools for system monitoring, service documentation, repair tracking, operational reporting, device integration, and RF analysis.
 
@@ -63,3 +63,14 @@ The following are suggested review checks. A checklist entry is not a claimed pa
 *Monitoring & Diagnostics Console — VB.NET: existing LinkedIn experience media, exported from the media viewer. This is the available preview resolution; it is a source summary sheet/screenshot, not a new measurement.*
 
 Source: [LinkedIn experience media](https://www.linkedin.com/in/mohammed-mahyoub/details/experience/).
+
+## Illustrated project pages
+
+This repository is a source collection for separate implementations. Each project has its own scope, source visual and engineering walkthrough.
+
+- [Monitoring & Diagnostics Console — VB.NET](https://mahyoub88.github.io/projects/proj-monitoring-console/)
+- [Service Operations & Technical Documentation Management System](https://mahyoub88.github.io/projects/proj-service-operations/)
+- [RF Link Budget & Propagation Analysis Engine](https://mahyoub88.github.io/projects/proj-rf-link-budget/)
+- [Line-of-Sight & Fresnel Zone Wireless Planning Tool](https://mahyoub88.github.io/projects/proj-fresnel-planning/)
+
+[Browse all engineering case studies](https://mahyoub88.github.io/projects/)
