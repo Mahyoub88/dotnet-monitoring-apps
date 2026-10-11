@@ -67,3 +67,11 @@ The planning view addresses path geometry and clearance. It complements RF analy
 ![Proposed workflow — Line-of-Sight & Fresnel Zone Wireless Planning Tool](docs/projects/proj-fresnel-planning/workflow.svg)
 
 [Full project walkthrough](https://mahyoub88.github.io/projects/proj-fresnel-planning/)
+
+- [Monitoring & Diagnostics Console — VB.NET — technical walkthrough](docs/technical-walkthroughs/proj-monitoring-console.md)
+
+- [Service Operations & Technical Documentation Management System — technical walkthrough](docs/technical-walkthroughs/proj-service-operations.md)
+
+- [RF Link Budget & Propagation Analysis Engine — technical walkthrough](docs/technical-walkthroughs/proj-rf-link-budget.md)
+
+- [Line-of-Sight & Fresnel Zone Wireless Planning Tool — technical walkthrough](docs/technical-walkthroughs/proj-fresnel-planning.md)
