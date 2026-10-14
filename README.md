@@ -1,6 +1,6 @@
-# Engineering Software — Independent Applications
+# Engineering Operations Suite — Monitoring, Diagnostics & Service Management
 
-[Browse project collection](https://mahyoub88.github.io/projects/proj-monitoring-apps/) · [Project index](docs/PROJECTS.md) · [Engineering guide](docs/engineering-guide.md)
+[Browse project collection](https://mahyoub88.github.io/projects/proj-engineering-operations/) · [Project index](docs/PROJECTS.md) · [Engineering guide](docs/engineering-guide.md)
 
 ## Detailed English analysis
 
@@ -10,7 +10,7 @@
 
 Four independently implemented applications, each with its own purpose, original interface media and engineering explanation.
 
-Each section below is a separate project. Images are existing source project media; the architecture and workflow figures are explanatory diagrams.
+Monitoring and service-management applications are presented together as Engineering Operations Suite. They remain independently implemented applications; a shared database and automated hand-off are proposed integration designs. RF and Fresnel calculators support the separate Wireless Link Planning & RF Engineering case study. Original images are preserved; architecture and workflow figures are explanatory diagrams.
 
 ### Monitoring & Diagnostics Console — VB.NET
 
@@ -24,7 +24,7 @@ The interface brings device status and operational issues into one review workfl
 
 ![Proposed workflow — Monitoring & Diagnostics Console — VB.NET](docs/projects/proj-monitoring-console/workflow.svg)
 
-[Full project walkthrough](https://mahyoub88.github.io/projects/proj-monitoring-console/)
+[Full project walkthrough](https://mahyoub88.github.io/projects/proj-engineering-operations/#monitoring)
 
 ### Service Operations & Technical Documentation Management System
 
@@ -32,13 +32,13 @@ A desktop application for device records, repair tracking and service documentat
 
 ![Service Operations & Technical Documentation Management System — original project media](docs/overview/service-tool.jpg)
 
-The original interface records device details, repair information and warranty/calibration fields. Search and reports turn those records into a service history. This application is presented separately from the monitoring console.
+The original interface records device details, repair information and warranty/calibration fields. Search and reports turn those records into a service history. This independently implemented application is presented alongside the monitoring console in the unified case study; shared-data integration is proposed.
 
 ![Proposed architecture — Service Operations & Technical Documentation Management System](docs/projects/proj-service-operations/architecture.svg)
 
 ![Proposed workflow — Service Operations & Technical Documentation Management System](docs/projects/proj-service-operations/workflow.svg)
 
-[Full project walkthrough](https://mahyoub88.github.io/projects/proj-service-operations/)
+[Full project walkthrough](https://mahyoub88.github.io/projects/proj-engineering-operations/#service)
 
 ### RF Link Budget & Propagation Analysis Engine
 
@@ -52,7 +52,7 @@ The practical output is an engineering calculation that can be reviewed alongsid
 
 ![Proposed workflow — RF Link Budget & Propagation Analysis Engine](docs/projects/proj-rf-link-budget/workflow.svg)
 
-[Full project walkthrough](https://mahyoub88.github.io/projects/proj-rf-link-budget/)
+[Full project walkthrough](https://mahyoub88.github.io/projects/proj-wireless-link-planning/#link-budget)
 
 ### Line-of-Sight & Fresnel Zone Wireless Planning Tool
 
@@ -66,7 +66,7 @@ The planning view addresses path geometry and clearance. It complements RF analy
 
 ![Proposed workflow — Line-of-Sight & Fresnel Zone Wireless Planning Tool](docs/projects/proj-fresnel-planning/workflow.svg)
 
-[Full project walkthrough](https://mahyoub88.github.io/projects/proj-fresnel-planning/)
+[Full project walkthrough](https://mahyoub88.github.io/projects/proj-wireless-link-planning/#fresnel-clearance)
 
 - [Monitoring & Diagnostics Console — VB.NET — technical walkthrough](docs/technical-walkthroughs/proj-monitoring-console.md)
 
