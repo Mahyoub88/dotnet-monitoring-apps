@@ -1,49 +1,25 @@
 # Project documentation
 
-This repository contains documentation for 4 independent implementations. The collection is not an additional project.
+The original applications remain independent implementations. The portfolio groups monitoring and service management into one case study, with RF/Fresnel calculators in a separate wireless case study.
 
-## Monitoring & Diagnostics Console — VB.NET
+## Engineering Operations Suite — Monitoring, Diagnostics & Service Management
 
-[Read case study](https://mahyoub88.github.io/projects/proj-monitoring-console/)
+[Read case study](https://mahyoub88.github.io/projects/proj-engineering-operations/)
 
-Built a WinForms dashboard for multi-site system monitoring, real-time diagnostics, automated health evaluation, issue tracking and technical reporting.
+VB.NET applications for multi-site monitoring, diagnostics, equipment records, repairs and technical reporting.
 
-Presentation status: Implemented Project.
+Presentation status: Implemented applications · Proposed integration. Shared databases and automated hand-off are proposed designs, not recovered production integration.
 
-Preview: Source project media.
+## Wireless Link Planning & RF Engineering
 
-## Service Operations & Technical Documentation Management System
+[Read case study](https://mahyoub88.github.io/projects/proj-wireless-link-planning/)
 
-[Read case study](https://mahyoub88.github.io/projects/proj-service-operations/)
+The independently implemented RF link-budget and Fresnel calculators support the historical Atma–Al-Sharq wireless case study.
 
-Developed a desktop application for device records, repair tracking, service documentation and operational reporting.
-
-Presentation status: Implemented Project.
-
-Preview: Source project media.
-
-## RF Link Budget & Propagation Analysis Engine
-
-[Read case study](https://mahyoub88.github.io/projects/proj-rf-link-budget/)
-
-Developed a VB.NET engineering calculator for path loss, link budget, receiver sensitivity, thermal noise and RF propagation analysis.
-
-Presentation status: Implemented Project.
-
-Preview: Source project media.
-
-## Line-of-Sight & Fresnel Zone Wireless Planning Tool
-
-[Read case study](https://mahyoub88.github.io/projects/proj-fresnel-planning/)
-
-Developed a planning tool for line-of-sight analysis and Fresnel-zone clearance in point-to-point wireless links.
-
-Presentation status: Implemented Project.
-
-Preview: Source project media.
+Presentation status: Historical implementation · Subsequent RF review. New calculations are not commissioning measurements.
 
 ## Source boundaries
 
-Source screenshots and photographs, explanatory diagrams, reference snippets and recorded results are labeled separately. Illustrative examples do not establish deployment ratings or measured performance. The portfolio serves local copies of public repository assets for reliable static hosting; the original repository retains the technical source and attribution.
+Original interface media is preserved. Explanatory diagrams, proposed internals, simulations and recorded results are labeled separately. This repository provides public documentation and images; undocumented storage schemas or production performance are not asserted.
 
 [Browse all case studies](https://mahyoub88.github.io/projects/)
